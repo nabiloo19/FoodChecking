@@ -1,4 +1,5 @@
-This is a Java Lab Project for Second Year Computer Science Students, Second Semester.											
+This is a Java Lab Project for Second Year Computer Science Students, Second Semester.
+
 What the program does is that it allows a CUSTOMER and a CHEF to communicate easily.
                                 
 You will find the code in the src folder, in which it has two sub-folders.
