@@ -3,6 +3,8 @@ This is a Java Lab Project for Second Year Computer Science Students, Second Sem
 What the program does is that it allows a CUSTOMER and a CHEF to communicate easily.
                                 
 You will find the code in the src folder, in which it has two sub-folders.
+
+You will find them in a .txt format
 										                                                           
 To run the code, open a new project and create 2 packages.
 
